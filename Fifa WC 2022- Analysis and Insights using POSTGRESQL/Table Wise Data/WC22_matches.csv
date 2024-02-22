@@ -1,0 +1,65 @@
+Match_ID,Date,Round,Home_Team,Away_Team,Result,Stadium_Name,Stadium_ID
+1,20-11-2022,Group Stage,Qatar,Ecuador,Ecuador,Al Bayt Stadium,A1
+2,21-11-2022,Group Stage,Senegal,Netherlands,Netherlands,Al Thumama Stadium,C1
+3,21-11-2022,Group Stage,England,Iran,England,Khalifa International Stadium,B1
+4,21-11-2022,Group Stage,United States,Wales,Draw,Ahmad Bin Ali Stadium,D1
+5,22-11-2022,Group Stage,France,Australia,France,Al Janoub Stadium,H1
+6,22-11-2022,Group Stage,Denmark,Tunisia,Draw,Education City Stadium,G1
+7,22-11-2022,Group Stage,Mexico,Poland,Draw,Stadium 974,F1
+8,22-11-2022,Group Stage,Argentina,Saudi Arabia,Saudi Arabia,Lusail Stadium,E1
+9,23-11-2022,Group Stage,Belgium,Canada,Belgium,Ahmad Bin Ali Stadium,D2
+10,23-11-2022,Group Stage,Spain,Costa Rica,Spain,Al Thumama Stadium,C2
+11,23-11-2022,Group Stage,Germany,Japan,Japan,Khalifa International Stadium,B2
+12,23-11-2022,Group Stage,Morocco,Croatia,Draw,Al Bayt Stadium,A2
+13,24-11-2022,Group Stage,Switzerland,Cameroon,Switzerland,Al Janoub Stadium,H2
+14,24-11-2022,Group Stage,Uruguay,South Korea,Draw,Education City Stadium,G2
+15,24-11-2022,Group Stage,Portugal,Ghana,Portugal,Stadium 974,F2
+16,24-11-2022,Group Stage,Brazil,Serbia,Brazil,Lusail Stadium,E2
+17,25-11-2022,Group Stage,Wales,Iran,Iran,Ahmad Bin Ali Stadium,D3
+18,25-11-2022,Group Stage,Qatar,Senegal,Senegal,Al Thumama Stadium,C3
+19,25-11-2022,Group Stage,Netherlands,Ecuador,Draw,Khalifa International Stadium,B3
+20,25-11-2022,Group Stage,England,United States,Draw,Al Bayt Stadium,A3
+21,26-11-2022,Group Stage,Tunisia,Australia,Australia,Al Janoub Stadium,H3
+22,26-11-2022,Group Stage,Poland,Saudi Arabia,Poland,Education City Stadium,G3
+23,26-11-2022,Group Stage,France,Denmark,France,Stadium 974,F3
+24,26-11-2022,Group Stage,Argentina,Mexico,Argentina,Lusail Stadium,E3
+25,27-11-2022,Group Stage,Japan,Costa Rica,Costa Rica,Ahmad Bin Ali Stadium,D4
+26,27-11-2022,Group Stage,Belgium,Morocco,Morocco,Al Thumama Stadium,C4
+27,27-11-2022,Group Stage,Croatia,Canada,Croatia,Khalifa International Stadium,B4
+28,27-11-2022,Group Stage,Spain,Germany,Draw,Al Bayt Stadium,A4
+29,28-11-2022,Group Stage,Cameroon,Serbia,Draw,Al Janoub Stadium,H4
+30,28-11-2022,Group Stage,South Korea,Ghana,Ghana,Education City Stadium,G4
+31,28-11-2022,Group Stage,Brazil,Switzerland,Brazil,Stadium 974,F4
+32,28-11-2022,Group Stage,Portugal,Uruguay,Portugal,Lusail Stadium,E4
+33,29-11-2022,Group Stage,Wales,England,England,Ahmad Bin Ali Stadium,D5
+34,29-11-2022,Group Stage,Iran,United States,United States,Al Thumama Stadium,C5
+35,29-11-2022,Group Stage,Ecuador,Senegal,Senegal,Khalifa International Stadium,B5
+36,29-11-2022,Group Stage,Netherlands,Qatar,Netherlands,Al Bayt Stadium,A5
+37,30-11-2022,Group Stage,Australia,Denmark,Australia,Al Janoub Stadium,H5
+38,30-11-2022,Group Stage,Tunisia,France,Tunisia,Education City Stadium,G5
+39,30-11-2022,Group Stage,Poland,Argentina,Argentina,Stadium 974,F5
+40,30-11-2022,Group Stage,Saudi Arabia,Mexico,Mexico,Lusail Stadium,E5
+41,01-12-2022,Group Stage,Croatia,Belgium,Draw,Ahmad Bin Ali Stadium,D6
+42,01-12-2022,Group Stage,Canada,Morocco,Morocco,Al Thumama Stadium,C6
+43,01-12-2022,Group Stage,Japan,Spain,Japan,Khalifa International Stadium,B6
+44,01-12-2022,Group Stage,Costa Rica,Germany,Germany,Al Bayt Stadium,A6
+45,02-12-2022,Group Stage,Ghana,Uruguay,Uruguay,Al Janoub Stadium,H6
+46,02-12-2022,Group Stage,South Korea,Portugal,South Korea,Education City Stadium,G6
+47,02-12-2022,Group Stage,Serbia,Switzerland,Switzerland,Stadium 974,F6
+48,02-12-2022,Group Stage,Cameroon,Brazil,Cameroon,Lusail Stadium,E6
+49,03-12-2022,Round of 16,Netherlands,United States,Netherlands,Khalifa International Stadium,B7
+50,03-12-2022,Round of 16,Argentina,Australia,Argentina,Ahmad Bin Ali Stadium,D7
+51,04-12-2022,Round of 16,Senegal,England,England,Al Bayt Stadium,A7
+52,04-12-2022,Round of 16,France,Poland,France,Al Thumama Stadium,C7
+53,05-12-2022,Round of 16,Japan,Croatia,Croatia,Al Janoub Stadium,H7
+54,05-12-2022,Round of 16,Brazil,South Korea,Brazil,Stadium 974,F7
+55,06-12-2022,Round of 16,Morocco,Spain,Morocco,Education City Stadium,G7
+56,06-12-2022,Round of 16,Portugal,Switzerland,Portugal,Lusail Stadium,E7
+57,09-12-2022,Quarter Final,Netherlands,Argentina,Argentina,Lusail Stadium,E8
+58,09-12-2022,Quarter Final,Croatia,Brazil,Croatia,Education City Stadium,G8
+59,10-12-2022,Quarter Final,England,France,France,Al Bayt Stadium,A8
+60,10-12-2022,Quarter Final,Morocco,Portugal,Morocco,Al Thumama Stadium,C8
+61,13-12-2022,Semi-Final,Argentina,Croatia,Argentina,Lusail Stadium,E9
+62,14-12-2022,Semi-Final,France,Morocco,France,Al Bayt Stadium,A9
+63,17-12-2022,3rd Place Playoff,Croatia,Morocco,Croatia,Khalifa International Stadium,B8
+64,18-12-2022,FINAL,Argentina,France,Argentina,Lusail Stadium,E10

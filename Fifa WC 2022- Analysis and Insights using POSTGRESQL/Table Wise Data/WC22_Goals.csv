@@ -1,0 +1,173 @@
+﻿Goal_ID,Goal_Scorer,Scored_Against,Round,Goal_Minute,Minute_Format,Team_ID,Match_ID
+1,Enner Valencia,Qatar,Group Stage,16,Normal Time,2,1
+2,Enner Valencia,Qatar,Group Stage,31,Normal Time,2,1
+3,Jude Bellingham,Iran,Group Stage,35,Normal Time,5,3
+4,Bukayo Saka,Iran,Group Stage,43,Normal Time,5,3
+5,Raheem Sterling,Iran,Group Stage,45(+1),Additional Time,5,3
+6,Bukayo Saka,Iran,Group Stage,62,Normal Time,5,3
+7,Mehdi Taremi,England,Group Stage,65,Normal Time,6,3
+8,Marcus Rashford,Iran,Group Stage,71,Normal Time,5,3
+9,Jack Grealish,Iran,Group Stage,90,Normal Time,5,3
+10,Mehdi Taremi,England,Group Stage,90(+3),Additional Time,6,3
+11,Cody Gakpo,Senegal,Group Stage,84,Normal Time,4,2
+12,Davy Klaassen,Senegal,Group Stage,90(+9),Additional Time,4,2
+13,Timothy Weah,Wales,Group Stage,36,Normal Time,7,4
+14,Gareth Bale,United States,Group Stage,82,Normal Time,8,4
+15,Lionel Messi,Saudi Arabia,Group Stage,10,Normal Time,9,8
+16,Saleh Al-Shehri,Argentina,Group Stage,48,Normal Time,10,8
+17,Salem Al-Dawsari,Argentina,Group Stage,53,Normal Time,10,8
+18,Craig Goodwin,France,Group Stage,9,Normal Time,14,5
+19,Adrien Rabiot,Australia,Group Stage,27,Normal Time,13,5
+20,Olivier Giroud,Australia,Group Stage,32,Normal Time,13,5
+21,Kylian Mbappe,Australia,Group Stage,68,Normal Time,13,5
+22,Olivier Giroud,Australia,Group Stage,71,Normal Time,13,5
+23,Ilkay Gundogan,Japan,Group Stage,33,Normal Time,19,11
+24,Ritsu Doan,Germany,Group Stage,75,Normal Time,20,11
+25,Takuma Asano,Germany,Group Stage,83,Normal Time,20,11
+26,Dani Olmo,Costa Rica,Group Stage,11,Normal Time,17,10
+27,Marco Asensio,Costa Rica,Group Stage,21,Normal Time,17,10
+28,Ferran Torres,Costa Rica,Group Stage,31,Normal Time,17,10
+29,Ferran Torres,Costa Rica,Group Stage,54,Normal Time,17,10
+30,Pablo Gavi,Costa Rica,Group Stage,74,Normal Time,17,10
+31,Carlos Soler,Costa Rica,Group Stage,90,Normal Time,17,10
+32,Alvaro Morata,Costa Rica,Group Stage,90(+2),Additional Time,17,10
+33,Michy Batshuayi,Canada,Group Stage,44,Normal Time,21,9
+34,Breel Embolo,Cameroon,Group Stage,48,Normal Time,27,13
+35,Cristiano Ronaldo,Ghana,Group Stage,65,Normal Time,29,15
+36,Andre Ayew,Portugal,Group Stage,73,Normal Time,30,15
+37,Joao Felix,Ghana,Group Stage,78,Normal Time,29,15
+38,Rafael Leao,Ghana,Group Stage,80,Normal Time,29,15
+39,Osman Bukari,Portugal,Group Stage,89,Normal Time,30,15
+40,Richarlison,Serbia,Group Stage,62,Normal Time,25,16
+41,Richarlison,Serbia,Group Stage,73,Normal Time,25,16
+42,Rouzbeh Cheshmi,Wales,Group Stage,90(+8),Additional Time,6,17
+43,Ramin Rezaeian,Wales,Group Stage,90(+11),Additional Time,6,17
+44,Boulaye Dia,Qatar,Group Stage,41,Normal Time,3,18
+45,Famara Diédhiou,Qatar,Group Stage,48,Normal Time,3,18
+46,Mohammed Muntari,Senegal,Group Stage,78,Normal Time,1,18
+47,Bamba Dieng,Qatar,Group Stage,84,Normal Time,3,18
+48,Cody Gakpo,Ecuador,Group Stage,6,Normal Time,4,19
+49,Enner Valencia,Netherlands,Group Stage,49,Normal Time,2,19
+50,Mitchell Duke,Tunisia,Group Stage,23,Normal Time,14,21
+51,Piotr Zieli?ski,Saudi Arabia,Group Stage,39,Normal Time,12,22
+52,Robert Lewandowski,Saudi Arabia,Group Stage,82,Normal Time,12,22
+53,Kylian Mbappe,Denmark,Group Stage,61,Normal Time,13,23
+54,Andres Christensen,France,Group Stage,68,Normal Time,15,23
+55,Kylian Mbappe,Denmark,Group Stage,86,Normal Time,13,23
+56,Lionel Messi,Mexico,Group Stage,64,Normal Time,9,24
+57,Enzo Fernandez,Mexico,Group Stage,87,Normal Time,9,24
+58,Keysher Fuller,Japan,Group Stage,81,Normal Time,18,25
+59,Romain Saïss,Belgium,Group Stage,73,Normal Time,23,26
+60,Zakaria Aboukhlal,Belgium,Group Stage,90(+2),Additional Time,23,26
+61,Alphonso Davies,Croatia,Group Stage,2,Normal Time,22,27
+62,Andrej Kramari?,Canada,Group Stage,36,Normal Time,24,27
+63,Marko Livaja,Canada,Group Stage,44,Normal Time,24,27
+64,Andrej Kramari?,Canada,Group Stage,70,Normal Time,24,27
+65,Lovro Majer,Canada,Group Stage,90(+4),Additional Time,24,27
+66,Alvaro Morata,Germany,Group Stage,62,Normal Time,17,28
+67,Niclas Füllkrug,Spain,Group Stage,83,Normal Time,19,28
+68,Jean-Charles Castelletto,Serbia,Group Stage,29,Normal Time,28,29
+69,Strahinja Pavlovi?,Cameroon,Group Stage,45(+1),Additional Time,26,29
+70,Sergej Milinkovi?-Savi?,Cameroon,Group Stage,45(+3),Additional Time,26,29
+71,Aleksandar Mitrovi?,Cameroon,Group Stage,53,Normal Time,26,29
+72,Vincent Aboubakar,Serbia,Group Stage,63,Normal Time,28,29
+73,Eric Maxim Choupo-Moting,Serbia,Group Stage,66,Normal Time,28,29
+74,Mohammed Salisu,South Korea,Group Stage,24,Normal Time,30,30
+75,Mohammed Kudus,South Korea,Group Stage,34,Normal Time,30,30
+76,Cho Gue-sung,Ghana,Group Stage,58,Normal Time,32,30
+77,Cho Gue-sung,Ghana,Group Stage,61,Normal Time,32,30
+78,Mohammed Kudus,South Korea,Group Stage,68,Normal Time,30,30
+79,Casemiro,Switzerland,Group Stage,83,Normal Time,25,31
+80,Bruno Fernandes,Uruguay,Group Stage,54,Normal Time,29,32
+81,Bruno Fernandes,Uruguay,Group Stage,90(+3),Additional Time,29,32
+82,Cody Gakpo,Qatar,Group Stage,26,Normal Time,4,36
+83,Ismaïla Sarr,Ecuador,Group Stage,44,Normal Time,3,35
+84,Frenkie De Jong,Qatar,Group Stage,49,Normal Time,4,36
+85,Moisés Caicedo,Senegal,Group Stage,67,Normal Time,2,35
+86,Kalidou Koulibaly,Ecuador,Group Stage,70,Normal Time,3,35
+87,Christian Pulisic,Iran,Group Stage,38,Normal Time,7,34
+88,Marcus Rashford,Wales,Group Stage,50,Normal Time,5,33
+89,Phil Foden,Wales,Group Stage,51,Normal Time,5,33
+90,Marcus Rashford,Wales,Group Stage,68,Normal Time,5,33
+91,Wahbi Khazri,France,Group Stage,58,Normal Time,16,38
+92,Matthew Leckie,Denmark,Group Stage,60,Normal Time,14,37
+93,Alexis Mac Allister,Poland,Group Stage,46,Normal Time,9,39
+94,Henry Martín,Saudi Arabia,Group Stage,47,Normal Time,11,40
+95,Luis Chavez,Saudi Arabia,Group Stage,52,Normal Time,11,40
+96,Julian Alvarez,Poland,Group Stage,67,Normal Time,9,39
+97,Salem Al-Dawsari,Mexico,Group Stage,90(+5),Additional Time,10,40
+98,Hakim Ziyech,Canada,Group Stage,4,Normal Time,23,42
+99,Youssef En-Nesyri,Canada,Group Stage,23,Normal Time,23,42
+100,Nayef Aguerd (OG),Morocco,Group Stage,40,Normal Time,22,42
+101,Serge Gnabry,Costa Rica,Group Stage,10,Normal Time,19,44
+102,Alvaro Morata,Japan,Group Stage,11,Normal Time,17,43
+103,Ritsu Doan,Spain,Group Stage,48,Normal Time,20,43
+104,Ao Tanaka,Spain,Group Stage,51,Normal Time,20,43
+105,Yeltsin Tejeda,Germany,Group Stage,58,Normal Time,18,44
+106,Juan Pablo Vargas,Germany,Group Stage,70,Normal Time,18,44
+107,Kai Havertz,Costa Rica,Group Stage,73,Normal Time,19,44
+108,Kai Havertz,Costa Rica,Group Stage,85,Normal Time,19,44
+109,Niclas Füllkrug,Costa Rica,Group Stage,89,Normal Time,19,44
+110,Ricardo Horta,South Korea,Group Stage,5,Normal Time,29,46
+111,Giorgian de Arrascaeta,Ghana,Group Stage,26,Normal Time,31,45
+112,Kim Young-gwon,Portugal,Group Stage,27,Normal Time,32,46
+113,Giorgian de Arrascaeta,Ghana,Group Stage,32,Normal Time,31,45
+114,Hwang Hee-chan,Portugal,Group Stage,90(+1),Additional Time,32,46
+115,Xherdan Shaqiri,Serbia,Group Stage,20,Normal Time,27,47
+116,Aleksandar Mitrovi?,Switzerland,Group Stage,26,Normal Time,26,47
+117,Dusan Vlahovi?,Switzerland,Group Stage,35,Normal Time,26,47
+118,Breel Embolo,Serbia,Group Stage,44,Normal Time,27,47
+119,Remo Freuler,Serbia,Group Stage,48,Normal Time,27,47
+120,Vincent Aboubakar,Brazil,Group Stage,90(+2),Additional Time,28,48
+121,Memphis Depay,United States,Round of 16,10,Normal Time,4,49
+122,Daley Blind,United States,Round of 16,45(+1),Additional Time,4,49
+123,Haji Wright,Netherlands,Round of 16,76,Normal Time,7,49
+124,Denzel Dumfries,United States,Round of 16,81,Normal Time,4,49
+125,Lionel Messi,Australia,Round of 16,35,Normal Time,9,50
+126,Julian Alvarez,Australia,Round of 16,57,Normal Time,9,50
+127,Enzo Fernandez (OG),Argentina,Round of 16,77,Normal Time,14,50
+128,Olivier Giroud,Poland,Round of 16,44,Normal Time,13,52
+129,Kylian Mbappe,Poland,Round of 16,74,Normal Time,13,52
+130,Kylian Mbappe,Poland,Round of 16,90(+1),Additional Time,13,52
+131,Robert Lewandowski,France,Round of 16,90(+9),Additional Time,12,52
+132,Jordan Henderson,Senegal,Round of 16,38,Normal Time,5,51
+133,Harry Kane,Senegal,Round of 16,45(+3),Additional Time,5,51
+134,Bukayo Saka,Senegal,Round of 16,57,Normal Time,5,51
+135,Daizen Meida,Croatia,Round of 16,43,Normal Time,20,53
+136,Ivan Perisic,Japan,Round of 16,55,Normal Time,24,53
+137,Vinicius Junior,South Korea,Round of 16,7,Normal Time,25,54
+138,Neymar Junior,South Korea,Round of 16,13,Normal Time,25,54
+139,Richarlison,South Korea,Round of 16,29,Normal Time,25,54
+140,Lucas Paqueta,South Korea,Round of 16,36,Normal Time,25,54
+141,Paik Seungho,Brazil,Round of 16,76,Normal Time,32,54
+142,Goncalo Ramos,Switzerland,Round of 16,17,Normal Time,29,56
+143,Pepe,Switzerland,Round of 16,33,Normal Time,29,56
+144,Goncalo Ramos,Switzerland,Round of 16,51,Normal Time,29,56
+145,Raphael Guerriero,Switzerland,Round of 16,55,Normal Time,29,56
+146,Manuel Akanji,Portugal,Round of 16,58,Normal Time,27,56
+147,Goncalo Ramos,Switzerland,Round of 16,67,Normal Time,29,56
+148,Rafael Leao,Switzerland,Round of 16,90(+2),Additional Time,29,56
+149,Neymar Junior,Croatia,Quarter Final,105(+1),Additional in Extra Time,25,58
+150,Bruno Petkovic,Brazil,Quarter Final,117,Extra Time,24,58
+151,Nahuel Molina,Netherlands,Quarter Final,35,Normal Time,9,57
+152,Lionel Messi,Netherlands,Quarter Final,73,Normal Time,9,57
+153,Wout Weghorst,Argentina,Quarter Final,83,Normal Time,4,57
+154,Wout Weghorst,Argentina,Quarter Final,90(+11),Additional Time,4,57
+155,Youssef En-Nesyri,Portugal,Quarter Final,42,Normal Time,23,60
+156,Aurelien Tchouameni,England,Quarter Final,17,Normal Time,13,59
+157,Harry Kane,France,Quarter Final,54,Normal Time,5,59
+158,Olivier Giroud,England,Quarter Final,78,Normal Time,13,59
+159,Lionel Messi,Croatia,Semi Final,34,Normal Time,9,61
+160,Julian Alvarez,Croatia,Semi Final,39,Normal Time,9,61
+161,Julian Alvarez,Croatia,Semi Final,69,Normal Time,9,61
+162,Theo Hernandez,Morocco,Semi Final,5,Normal Time,13,62
+163,Kolo Muani,Morocco,Semi Final,79,Normal Time,13,62
+164,Josko Gvardiol,Morocco,3rd Place Playoff,7,Normal Time,24,63
+165,Achraf Dari,Croatia,3rd Place Playoff,9,Normal Time,23,63
+166,Mislav Orsic,Morocco,3rd Place Playoff,42,Normal Time,24,63
+167,Lionel Messi,France,FINAL,23,Normal Time,9,64
+168,Angel Di Maria,France,FINAL,36,Normal Time,9,64
+169,Kylian Mbappe,Argentina,FINAL,80,Normal Time,13,64
+170,Kylian Mbappe,Argentina,FINAL,81,Normal Time,13,64
+171,Lionel Messi,France,FINAL,108,Extra Time,9,64
+172,Kylian Mbappe,Argentina,FINAL,118,Extra Time,13,64

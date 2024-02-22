@@ -1,0 +1,65 @@
+Stadium_ID,Stadium_Name,Round,Location, Attendance ,Match_ID
+A1,Al Bayt Stadium,Group Stage,Al Khor,67372,1
+A2,Al Bayt Stadium,Group Stage,Al Khor,59407,12
+A3,Al Bayt Stadium,Group Stage,Al Khor,68463,20
+A4,Al Bayt Stadium,Group Stage,Al Khor,68895,28
+A5,Al Bayt Stadium,Group Stage,Al Khor,66784,36
+A6,Al Bayt Stadium,Group Stage,Al Khor,67054,44
+A7,Al Bayt Stadium,Round of 16,Al Khor,65985,51
+A8,Al Bayt Stadium,Quarter Final,Al Khor,68895,59
+A9,Al Bayt Stadium,Semi-Final,Al Khor,68294,62
+B1,Khalifa International Stadium,Group Stage,Doha,45334,3
+B2,Khalifa International Stadium,Group Stage,Doha,42608,11
+B3,Khalifa International Stadium,Group Stage,Doha,44833,19
+B4,Khalifa International Stadium,Group Stage,Doha,44374,27
+B5,Khalifa International Stadium,Group Stage,Doha,44569,35
+B6,Khalifa International Stadium,Group Stage,Doha,44851,43
+B7,Khalifa International Stadium,Round of 16,Doha,44846,49
+B8,Khalifa International Stadium,3rd Place Playoff,Doha,44137,63
+C1,Al Thumama Stadium,Group Stage,Al Thumama,41721,2
+C2,Al Thumama Stadium,Group Stage,Al Thumama,40013,10
+C3,Al Thumama Stadium,Group Stage,Al Thumama,41797,18
+C4,Al Thumama Stadium,Group Stage,Al Thumama,43738,26
+C5,Al Thumama Stadium,Group Stage,Al Thumama,42127,34
+C6,Al Thumama Stadium,Group Stage,Al Thumama,43102,42
+C7,Al Thumama Stadium,Round of 16,Al Thumama,40989,52
+C8,Al Thumama Stadium,Quarter Final,Al Thumama,44198,60
+D1,Ahmad Bin Ali Stadium,Group Stage,Al Rayyan,43418,4
+D2,Ahmad Bin Ali Stadium,Group Stage,Al Rayyan,40432,9
+D3,Ahmad Bin Ali Stadium,Group Stage,Al Rayyan,40875,17
+D4,Ahmad Bin Ali Stadium,Group Stage,Al Rayyan,41479,25
+D5,Ahmad Bin Ali Stadium,Group Stage,Al Rayyan,44297,33
+D6,Ahmad Bin Ali Stadium,Group Stage,Al Rayyan,43984,41
+D7,Ahmad Bin Ali Stadium,Round of 16,Al Rayyan,45032,50
+E1,Lusail Stadium,Group Stage,Lusail,88012,8
+E2,Lusail Stadium,Group Stage,Lusail,88103,16
+E3,Lusail Stadium,Group Stage,Lusail,88966,24
+E4,Lusail Stadium,Group Stage,Lusail,88668,32
+E5,Lusail Stadium,Group Stage,Lusail,84985,40
+E6,Lusail Stadium,Group Stage,Lusail,85986,48
+E7,Lusail Stadium,Round of 16,Lusail,83720,56
+E8,Lusail Stadium,Quarter Final,Lusail,88235,57
+E9,Lusail Stadium,Semi-Final,Lusail,88966,61
+E10,Lusail Stadium,Final,Lusail,88966,64
+F1,Stadium 974,Group Stage,Ras Abu Aboud,39369,7
+F2,Stadium 974,Group Stage,Ras Abu Aboud,42662,15
+F3,Stadium 974,Group Stage,Ras Abu Aboud,42860,23
+F4,Stadium 974,Group Stage,Ras Abu Aboud,43649,31
+F5,Stadium 974,Group Stage,Ras Abu Aboud,44089,39
+F6,Stadium 974,Group Stage,Ras Abu Aboud,41378,47
+F7,Stadium 974,Round of 16,Ras Abu Aboud,43847,54
+G1,Education City Stadium,Group Stage,Al Rayyan,42925,6
+G2,Education City Stadium,Group Stage,Al Rayyan,41663,14
+G3,Education City Stadium,Group Stage,Al Rayyan,44259,22
+G4,Education City Stadium,Group Stage,Al Rayyan,43983,30
+G5,Education City Stadium,Group Stage,Al Rayyan,43627,38
+G6,Education City Stadium,Group Stage,Al Rayyan,44097,46
+G7,Education City Stadium,Round of 16,Al Rayyan,44667,55
+G8,Education City Stadium,Quarter Final,Al Rayyan,43893,58
+H1,Al Janoub Stadium,Group Stage,Al Wakrah,40875,5
+H2,Al Janoub Stadium,Group Stage,Al Wakrah,39089,13
+H3,Al Janoub Stadium,Group Stage,Al Wakrah,41823,21
+H4,Al Janoub Stadium,Group Stage,Al Wakrah,39789,29
+H5,Al Janoub Stadium,Group Stage,Al Wakrah,41232,37
+H6,Al Janoub Stadium,Group Stage,Al Wakrah,43443,45
+H7,Al Janoub Stadium,Round of 16,Al Wakrah,42523,53

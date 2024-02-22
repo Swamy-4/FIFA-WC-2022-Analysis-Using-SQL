@@ -1,0 +1,33 @@
+Group_ID,Team_Name,Points_Gained,Position,Status,Team_ID
+A1,Qatar,0,4,Eliminated,1
+A2,Ecuador,4,3,Eliminated,2
+A3,Senegal,6,2,Qualified,3
+A4,Netherlands,7,1,Qualified,4
+B1,England,7,1,Qualified,5
+B2,Iran,3,3,Eliminated,6
+B3,United States,5,2,Qualified,7
+B4,Wales,1,4,Eliminated,8
+C1,Argentina,6,1,Qualified,9
+C2,Saudi Arabia,3,4,Eliminated,10
+C3,Mexico,4,3,Eliminated,11
+C4,Poland,4,2,Qualified,12
+D1,France,6,1,Qualified,13
+D2,Australia,6,2,Qualified,14
+D3,Denmark,1,4,Eliminated,15
+D4,Tunisia,4,3,Eliminated,16
+E1,Spain,4,2,Qualified,17
+E2,Costa Rica,3,4,Eliminated,18
+E3,Germany,4,3,Eliminated,19
+E4,Japan,6,1,Qualified,20
+F1,Belgium,4,3,Eliminated,21
+F2,Canada,0,4,Eliminated,22
+F3,Morocco,7,1,Qualified,23
+F4,Croatia,5,2,Qualified,24
+G1,Brazil,6,1,Qualified,25
+G2,Serbia,1,4,Eliminated,26
+G3,Switzerland,6,2,Qualified,27
+G4,Cameroon,4,3,Eliminated,28
+H1,Portugal,6,1,Qualified,29
+H2,Ghana,3,4,Eliminated,30
+H3,Uruguay,4,3,Eliminated,31
+H4,South Korea,4,2,Qualified,32
